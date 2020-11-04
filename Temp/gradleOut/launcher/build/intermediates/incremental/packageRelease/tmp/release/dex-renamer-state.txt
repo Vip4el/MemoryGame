@@ -1,0 +1,4 @@
+#Wed Nov 04 17:59:41 EET 2020
+base.0=D\:\\Profects\\Unity\\MemoryGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\dex\\release\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
